@@ -1,0 +1,219 @@
+﻿Department;BusinessTravel;DailyRate;Attrition;DistanceFromHome(Km);Education;EducationField;EducationCategory;EmployeeCount;EmployeeNumber;EnvironmentSatisfaction;Gender
+Sales;Travel_Rarely;1102;Yes;1;College;Life Sciences;STEM;1;1;2;Female
+Research & Development;Travel_Frequently;279;No;8;Below College;Life Sciences;STEM;1;2;3;Male
+Research & Development;Travel_Rarely;1373;Yes;2;College;Other;Other;1;4;4;Male
+Research & Development;Travel_Frequently;1392;No;3;Master;Life Sciences;STEM;1;5;4;Female
+Research & Development;Travel_Rarely;591;No;2;Below College;Medical;STEM;1;7;1;Male
+Research & Development;Travel_Frequently;1005;No;2;College;Life Sciences;STEM;1;8;4;Male
+Research & Development;Travel_Rarely;1324;No;3;Barchelor;Medical;STEM;1;10;3;Female
+Research & Development;Travel_Rarely;1358;No;24;Below College;Life Sciences;STEM;1;11;4;Male
+Research & Development;Travel_Frequently;216;No;23;Barchelor;Life Sciences;STEM;1;12;4;Male
+Research & Development;Travel_Rarely;1299;No;27;Barchelor;Medical;STEM;1;13;3;Male
+Research & Development;Travel_Rarely;809;No;16;Barchelor;Medical;STEM;1;14;1;Male
+Research & Development;Travel_Rarely;153;No;15;College;Life Sciences;STEM;1;15;4;Female
+Research & Development;Travel_Rarely;670;No;26;Below College;Life Sciences;STEM;1;16;1;Male
+Research & Development;Travel_Rarely;1346;No;19;College;Medical;STEM;1;18;2;Male
+Research & Development;Travel_Rarely;103;Yes;24;Barchelor;Life Sciences;STEM;1;19;3;Male
+Research & Development;Travel_Rarely;1389;No;21;Master;Life Sciences;STEM;1;20;2;Female
+Research & Development;Travel_Rarely;334;No;5;College;Life Sciences;STEM;1;21;1;Male
+Research & Development;Non-Travel;1123;No;16;College;Medical;STEM;1;22;4;Male
+Sales;Travel_Rarely;1219;No;2;Master;Life Sciences;STEM;1;23;1;Female
+Research & Development;Travel_Rarely;371;No;2;Barchelor;Life Sciences;STEM;1;24;4;Male
+Research & Development;Non-Travel;673;No;11;College;Other;Other;1;26;1;Female
+Sales;Travel_Rarely;1218;Yes;9;Master;Life Sciences;STEM;1;27;3;Male
+Research & Development;Travel_Rarely;419;No;7;Master;Life Sciences;STEM;1;28;1;Female
+Research & Development;Travel_Rarely;391;No;15;College;Life Sciences;STEM;1;30;3;Male
+Research & Development;Travel_Rarely;699;Yes;6;Below College;Medical;STEM;1;31;2;Male
+Research & Development;Travel_Rarely;1282;No;5;Barchelor;Other;Other;1;32;3;Female
+Research & Development;Travel_Frequently;1125;Yes;16;Below College;Life Sciences;STEM;1;33;2;Female
+Sales;Travel_Rarely;691;No;8;Master;Marketing;Social;1;35;3;Male
+Research & Development;Travel_Rarely;477;No;7;Master;Medical;STEM;1;36;1;Female
+Sales;Travel_Rarely;705;No;2;Master;Marketing;Social;1;38;2;Female
+Research & Development;Travel_Rarely;924;No;2;Barchelor;Medical;STEM;1;39;3;Male
+Research & Development;Travel_Rarely;1459;No;10;Master;Other;Other;1;40;4;Male
+Research & Development;Travel_Rarely;125;No;9;College;Medical;STEM;1;41;4;Male
+Sales;Travel_Rarely;895;Yes;5;Barchelor;Technical Degree;STEM;1;42;4;Male
+Research & Development;Travel_Rarely;813;Yes;1;Barchelor;Medical;STEM;1;45;2;Male
+Research & Development;Travel_Rarely;1273;No;2;College;Medical;STEM;1;46;4;Female
+Sales;Travel_Rarely;869;Yes;3;College;Marketing;Social;1;47;1;Male
+Sales;Travel_Rarely;890;No;2;Barchelor;Marketing;Social;1;49;4;Female
+Research & Development;Travel_Rarely;852;No;5;Master;Life Sciences;STEM;1;51;2;Female
+Sales;Travel_Frequently;1141;No;1;Barchelor;Life Sciences;STEM;1;52;3;Female
+Research & Development;Travel_Rarely;464;No;4;College;Other;Other;1;53;3;Male
+Research & Development;Travel_Rarely;1240;No;2;Master;Life Sciences;STEM;1;54;4;Female
+Research & Development;Travel_Rarely;1357;Yes;25;Barchelor;Life Sciences;STEM;1;55;1;Male
+Sales;Travel_Frequently;994;No;8;Barchelor;Life Sciences;STEM;1;56;4;Male
+Research & Development;Travel_Frequently;721;No;1;College;Medical;STEM;1;57;3;Female
+Research & Development;Travel_Rarely;1360;Yes;12;Barchelor;Technical Degree;STEM;1;58;2;Female
+Sales;Non-Travel;1065;No;23;Master;Marketing;Social;1;60;2;Male
+Research & Development;Travel_Rarely;408;No;19;College;Life Sciences;STEM;1;61;2;Male
+Sales;Travel_Frequently;1211;No;5;Master;Marketing;Social;1;62;1;Male
+Research & Development;Travel_Rarely;1229;No;8;Below College;Life Sciences;STEM;1;63;4;Male
+Research & Development;Travel_Rarely;626;Yes;1;College;Life Sciences;STEM;1;64;1;Male
+Research & Development;Travel_Rarely;1434;Yes;5;Master;Technical Degree;STEM;1;65;3;Male
+Sales;Travel_Rarely;1488;No;1;Doctor;Marketing;Social;1;68;2;Female
+Research & Development;Non-Travel;1097;No;11;College;Medical;STEM;1;70;3;Male
+Sales;Travel_Rarely;1443;No;23;Barchelor;Marketing;Social;1;72;3;Female
+Research & Development;Travel_Frequently;515;No;1;College;Life Sciences;STEM;1;73;1;Female
+Sales;Travel_Frequently;853;No;18;Doctor;Life Sciences;STEM;1;74;2;Male
+Research & Development;Travel_Rarely;1142;No;23;Master;Medical;STEM;1;75;3;Female
+Research & Development;Travel_Rarely;655;No;7;Master;Life Sciences;STEM;1;76;4;Male
+Research & Development;Travel_Rarely;1115;No;1;Master;Life Sciences;STEM;1;77;1;Male
+Research & Development;Travel_Rarely;427;No;1;Barchelor;Medical;STEM;1;78;1;Male
+Research & Development;Travel_Frequently;653;No;29;Doctor;Life Sciences;STEM;1;79;4;Female
+Research & Development;Travel_Rarely;989;No;7;College;Medical;STEM;1;80;2;Female
+Sales;Travel_Rarely;1435;No;25;Barchelor;Life Sciences;STEM;1;81;1;Female
+Research & Development;Travel_Rarely;1223;No;8;Barchelor;Technical Degree;STEM;1;83;3;Female
+Research & Development;Travel_Rarely;836;No;8;Barchelor;Medical;STEM;1;84;4;Female
+Research & Development;Travel_Frequently;1195;No;11;Barchelor;Life Sciences;STEM;1;85;2;Male
+Research & Development;Travel_Rarely;1339;No;7;Barchelor;Life Sciences;STEM;1;86;2;Male
+Research & Development;Travel_Frequently;664;No;1;Barchelor;Medical;STEM;1;88;2;Male
+Research & Development;Travel_Rarely;318;Yes;9;Barchelor;Medical;STEM;1;90;4;Male
+Sales;Travel_Frequently;1225;No;1;Below College;Life Sciences;STEM;1;91;1;Female
+Research & Development;Travel_Rarely;1328;No;2;Barchelor;Life Sciences;STEM;1;94;3;Male
+Research & Development;Travel_Rarely;1082;No;1;Master;Medical;STEM;1;95;3;Male
+Research & Development;Travel_Rarely;548;No;1;Barchelor;Life Sciences;STEM;1;96;2;Male
+Research & Development;Travel_Rarely;132;No;6;Barchelor;Life Sciences;STEM;1;97;2;Female
+Research & Development;Travel_Rarely;746;No;8;Master;Life Sciences;STEM;1;98;3;Female
+Sales;Travel_Rarely;776;No;1;Master;Marketing;Social;1;100;3;Male
+Research & Development;Travel_Rarely;193;No;6;Master;Other;Other;1;101;4;Male
+Research & Development;Travel_Rarely;397;No;7;Master;Medical;STEM;1;102;1;Male
+Human Resources;Travel_Rarely;945;No;5;College;Medical;STEM;1;103;2;Male
+Research & Development;Travel_Rarely;852;No;1;Below College;Life Sciences;STEM;1;104;4;Male
+Research & Development;Travel_Rarely;1214;No;1;Barchelor;Medical;STEM;1;105;2;Male
+Sales;Travel_Rarely;111;No;1;College;Life Sciences;STEM;1;106;1;Male
+Research & Development;Non-Travel;573;No;6;Barchelor;Medical;STEM;1;107;2;Female
+Research & Development;Travel_Rarely;1153;No;1;College;Medical;STEM;1;110;1;Male
+Research & Development;Travel_Rarely;1400;No;7;Barchelor;Life Sciences;STEM;1;112;4;Male
+Sales;Travel_Rarely;541;No;2;Below College;Technical Degree;STEM;1;113;3;Male
+Research & Development;Travel_Rarely;432;No;9;Master;Life Sciences;STEM;1;116;4;Male
+Research & Development;Travel_Rarely;288;No;2;Barchelor;Life Sciences;STEM;1;117;3;Male
+Sales;Travel_Rarely;669;Yes;9;College;Medical;STEM;1;118;3;Male
+Research & Development;Travel_Frequently;530;No;1;Master;Life Sciences;STEM;1;119;3;Male
+Sales;Travel_Rarely;632;No;21;Master;Marketing;Social;1;120;3;Male
+Sales;Travel_Rarely;1334;No;4;College;Medical;STEM;1;121;3;Female
+Research & Development;Travel_Frequently;638;No;1;Barchelor;Medical;STEM;1;124;3;Male
+Sales;Travel_Rarely;1093;No;6;Master;Medical;STEM;1;125;2;Male
+Research & Development;Travel_Rarely;1217;No;2;Master;Technical Degree;STEM;1;126;1;Female
+Sales;Travel_Rarely;1353;No;3;College;Other;Other;1;128;1;Female
+Sales;Non-Travel;120;No;4;Barchelor;Medical;STEM;1;129;2;Male
+Sales;Travel_Rarely;682;No;10;Master;Medical;STEM;1;131;4;Male
+Research & Development;Non-Travel;489;No;23;Barchelor;Medical;STEM;1;132;2;Male
+Human Resources;Travel_Rarely;807;Yes;6;Master;Human Resources;Social;1;133;3;Male
+Research & Development;Travel_Rarely;827;No;1;Below College;Life Sciences;STEM;1;134;4;Male
+Research & Development;Travel_Frequently;871;Yes;6;Barchelor;Life Sciences;STEM;1;137;4;Female
+Research & Development;Travel_Rarely;665;No;6;Master;Other;Other;1;138;1;Female
+Research & Development;Non-Travel;1040;No;2;College;Life Sciences;STEM;1;139;3;Male
+Human Resources;Non-Travel;1420;No;2;Master;Human Resources;Social;1;140;3;Female
+Research & Development;Travel_Frequently;1115;No;1;Barchelor;Life Sciences;STEM;1;141;1;Female
+Sales;Travel_Rarely;240;Yes;5;Barchelor;Marketing;Social;1;142;3;Male
+Research & Development;Travel_Rarely;1280;No;7;Below College;Medical;STEM;1;143;4;Male
+Research & Development;Travel_Rarely;534;No;15;Barchelor;Medical;STEM;1;144;2;Female
+Research & Development;Travel_Frequently;1456;No;1;Master;Medical;STEM;1;145;1;Female
+Research & Development;Travel_Frequently;658;Yes;7;Barchelor;Life Sciences;STEM;1;147;1;Male
+Human Resources;Non-Travel;142;No;26;Barchelor;Human Resources;Social;1;148;4;Female
+Research & Development;Travel_Rarely;1127;No;18;Below College;Life Sciences;STEM;1;150;2;Male
+Research & Development;Travel_Rarely;1031;No;6;Master;Life Sciences;STEM;1;151;3;Female
+Sales;Travel_Rarely;1189;No;3;Barchelor;Life Sciences;STEM;1;152;3;Male
+Research & Development;Travel_Rarely;1354;No;5;Barchelor;Medical;STEM;1;153;3;Female
+Sales;Travel_Frequently;1467;No;11;College;Technical Degree;STEM;1;154;2;Female
+Research & Development;Travel_Rarely;922;No;3;College;Life Sciences;STEM;1;155;1;Female
+Sales;Travel_Frequently;394;No;26;College;Life Sciences;STEM;1;158;3;Male
+Research & Development;Travel_Frequently;1312;No;23;Barchelor;Life Sciences;STEM;1;159;1;Male
+Sales;Non-Travel;750;No;22;College;Marketing;Social;1;160;3;Male
+Research & Development;Travel_Rarely;441;Yes;14;Master;Life Sciences;STEM;1;161;2;Female
+Research & Development;Travel_Rarely;684;No;6;Barchelor;Life Sciences;STEM;1;162;1;Male
+Sales;Travel_Rarely;249;Yes;6;Master;Life Sciences;STEM;1;163;2;Male
+Research & Development;Travel_Rarely;841;No;6;Barchelor;Other;Other;1;164;3;Female
+Research & Development;Travel_Rarely;147;Yes;23;Master;Medical;STEM;1;165;4;Female
+Sales;Travel_Rarely;528;Yes;22;Below College;Marketing;Social;1;167;4;Male
+Research & Development;Travel_Rarely;594;No;2;Below College;Technical Degree;STEM;1;169;3;Male
+Research & Development;Travel_Rarely;470;No;20;Master;Medical;STEM;1;170;3;Female
+Research & Development;Travel_Frequently;957;No;28;Barchelor;Medical;STEM;1;171;2;Female
+Sales;Travel_Frequently;809;No;12;Barchelor;Marketing;Social;1;174;3;Female
+Sales;Travel_Rarely;542;Yes;20;Barchelor;Life Sciences;STEM;1;175;2;Female
+Sales;Travel_Rarely;802;No;9;Below College;Life Sciences;STEM;1;176;3;Male
+Human Resources;Travel_Rarely;1355;No;25;Below College;Life Sciences;STEM;1;177;3;Female
+Research & Development;Travel_Rarely;216;No;6;College;Medical;STEM;1;178;2;Male
+Research & Development;Travel_Frequently;1150;Yes;8;Master;Life Sciences;STEM;1;179;1;Male
+Sales;Travel_Rarely;1329;No;4;Master;Life Sciences;STEM;1;182;4;Female
+Sales;Travel_Rarely;959;No;28;Barchelor;Life Sciences;STEM;1;183;1;Male
+Human Resources;Travel_Rarely;1240;No;9;Barchelor;Human Resources;Social;1;184;3;Male
+Research & Development;Travel_Rarely;1033;Yes;9;Barchelor;Medical;STEM;1;190;1;Female
+Research & Development;Travel_Rarely;1316;No;29;Barchelor;Medical;STEM;1;192;3;Male
+Research & Development;Travel_Rarely;364;No;3;Doctor;Technical Degree;STEM;1;193;4;Female
+Research & Development;Travel_Rarely;438;No;18;Barchelor;Life Sciences;STEM;1;194;1;Female
+Sales;Travel_Frequently;689;No;9;College;Medical;STEM;1;195;4;Male
+Research & Development;Travel_Rarely;201;No;5;Barchelor;Technical Degree;STEM;1;197;4;Female
+Research & Development;Travel_Rarely;1427;No;2;Below College;Medical;STEM;1;198;2;Male
+Research & Development;Travel_Frequently;857;No;10;Barchelor;Life Sciences;STEM;1;199;4;Male
+Research & Development;Travel_Rarely;933;No;9;Master;Life Sciences;STEM;1;200;3;Male
+Research & Development;Travel_Rarely;1181;No;3;Below College;Medical;STEM;1;201;2;Female
+Research & Development;Travel_Frequently;1395;No;26;Barchelor;Medical;STEM;1;202;2;Female
+Sales;Travel_Rarely;662;No;1;Doctor;Marketing;Social;1;204;3;Male
+Sales;Travel_Rarely;1436;No;6;College;Marketing;Social;1;205;2;Male
+Research & Development;Travel_Rarely;194;No;9;Barchelor;Life Sciences;STEM;1;206;2;Male
+Sales;Travel_Frequently;967;No;8;Barchelor;Marketing;Social;1;207;2;Female
+Research & Development;Non-Travel;1496;No;1;Below College;Technical Degree;STEM;1;208;4;Male
+Research & Development;Travel_Rarely;1169;No;7;Master;Medical;STEM;1;211;2;Male
+Research & Development;Travel_Rarely;1145;No;9;Barchelor;Medical;STEM;1;214;2;Female
+Sales;Travel_Rarely;630;No;4;Master;Marketing;Social;1;215;3;Male
+Sales;Travel_Frequently;303;No;2;Master;Marketing;Social;1;216;3;Female
+Research & Development;Travel_Rarely;1256;No;19;Below College;Medical;STEM;1;217;3;Male
+Research & Development;Non-Travel;691;No;9;Barchelor;Medical;STEM;1;218;4;Male
+Research & Development;Travel_Rarely;440;No;21;Barchelor;Medical;STEM;1;221;3;Male
+Research & Development;Travel_Rarely;334;No;24;College;Life Sciences;STEM;1;223;3;Male
+Research & Development;Non-Travel;1450;No;3;Barchelor;Medical;STEM;1;224;3;Male
+Research & Development;Travel_Rarely;1452;No;11;Barchelor;Life Sciences;STEM;1;226;3;Female
+Research & Development;Travel_Rarely;465;No;14;Barchelor;Life Sciences;STEM;1;227;1;Male
+Sales;Travel_Rarely;1339;No;5;Barchelor;Life Sciences;STEM;1;228;2;Female
+Sales;Travel_Rarely;702;No;1;Master;Life Sciences;STEM;1;230;1;Female
+Research & Development;Travel_Rarely;120;No;6;Doctor;Life Sciences;STEM;1;231;3;Male
+Research & Development;Travel_Rarely;1157;No;17;Barchelor;Technical Degree;STEM;1;233;3;Male
+Sales;Travel_Frequently;602;Yes;1;Below College;Technical Degree;STEM;1;235;3;Female
+Research & Development;Travel_Frequently;1480;No;3;College;Medical;STEM;1;238;4;Male
+Research & Development;Non-Travel;111;No;9;Barchelor;Medical;STEM;1;239;3;Male
+Sales;Travel_Rarely;1268;No;4;College;Life Sciences;STEM;1;240;3;Female
+Research & Development;Travel_Rarely;713;No;8;Barchelor;Life Sciences;STEM;1;241;3;Female
+Research & Development;Travel_Rarely;134;No;2;Barchelor;Life Sciences;STEM;1;242;3;Male
+Research & Development;Travel_Rarely;303;Yes;2;Barchelor;Life Sciences;STEM;1;243;2;Male
+Sales;Travel_Rarely;526;No;1;College;Marketing;Social;1;244;2;Female
+Research & Development;Travel_Rarely;1380;No;9;College;Life Sciences;STEM;1;245;3;Female
+Research & Development;Travel_Rarely;140;No;12;Below College;Medical;STEM;1;246;3;Female
+Research & Development;Travel_Rarely;629;No;27;College;Medical;STEM;1;247;4;Female
+Sales;Travel_Rarely;1356;Yes;20;College;Marketing;Social;1;248;2;Female
+Research & Development;Travel_Rarely;328;No;1;Barchelor;Medical;STEM;1;249;3;Male
+Research & Development;Travel_Rarely;1084;No;13;College;Medical;STEM;1;250;4;Female
+Research & Development;Travel_Rarely;931;No;14;Barchelor;Medical;STEM;1;252;4;Female
+Research & Development;Travel_Rarely;989;No;4;Below College;Medical;STEM;1;253;4;Female
+Research & Development;Travel_Rarely;692;No;14;Master;Medical;STEM;1;254;3;Male
+Research & Development;Travel_Frequently;1069;No;2;Below College;Life Sciences;STEM;1;256;4;Male
+Research & Development;Travel_Rarely;313;No;3;Barchelor;Medical;STEM;1;258;4;Female
+Research & Development;Travel_Rarely;699;No;1;Master;Life Sciences;STEM;1;259;3;Male
+Research & Development;Travel_Rarely;894;No;9;Barchelor;Medical;STEM;1;260;4;Female
+Research & Development;Travel_Rarely;556;Yes;23;College;Life Sciences;STEM;1;261;2;Male
+Research & Development;Non-Travel;1344;No;7;Barchelor;Medical;STEM;1;262;4;Male
+Research & Development;Non-Travel;1195;No;2;College;Medical;STEM;1;264;1;Male
+Research & Development;Travel_Rarely;290;No;21;Barchelor;Life Sciences;STEM;1;267;2;Male
+Research & Development;Travel_Frequently;138;No;2;Barchelor;Medical;STEM;1;269;2;Female
+Research & Development;Non-Travel;926;No;21;College;Medical;STEM;1;270;3;Female
+Research & Development;Travel_Rarely;1261;No;2;Master;Life Sciences;STEM;1;271;4;Male
+Research & Development;Travel_Rarely;1084;No;29;Barchelor;Technical Degree;STEM;1;273;4;Male
+;;;;;;;;;;;
+;challenge #1;;;;;;;;;;
+;which department of employee number 5?;;;;;;;;;;
+;#N/A;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;challenge #2;;;;;;;;;;
+;Department;EmployeeCount;;;;;;;;;
+;Sales;51;;;;;;;;;
+;Human Resources;?;;;;;;;;;
+;Research & Development;?;;;;;;;;;
+;;;;;;;;;;;
+;challenge #3;;;;;;;;;;
+;daily rate;education field;gender;;;;;;;;
+;699;Medical;Male;;;;;;;;
+;931;Medical;Female;;;;;;;;
+;438;Life Sciences;Female;;;;;;;;
+;394;Life Sciences;Male;;;;;;;;
